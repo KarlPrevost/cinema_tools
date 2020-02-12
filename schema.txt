@@ -1,0 +1,48 @@
+===================================================================
+rechercher des films(filtrer) par nom, genre ou par distributeur ==>
+
+
+filtrage par nom        : champs de recherche {
+	Utiliser where  like %
+}
+filtrage par genre      : liste déroulante {
+}
+filtrage par distrib    : liste déroulante {
+	
+}
+
+
+===================================================================
+rechercher un membre par son nom et/ou son prénom ==>
+
+
+===================================================================
+ajouter, supprimer, modifier un abonnement à un client ==>
+
+
+===================================================================
+afficher l’historique d’un client (les films qu’il a vus) ==>
+
+
+===================================================================
+pouvoir ajouter une entrée à cet historique (film vu par le membre aujourd’hui) ==>
+
+
+===================================================================
+ajouter un avis sur un film (avis qui sera ajouté à la table historique-membre ) ==>
+
+
+===================================================================
+rechercher les films par date de projection (“Quels films passent ce soir ? !”) ==>
+
+
+===================================================================
+
+
+
+
+
+
+
+
+
